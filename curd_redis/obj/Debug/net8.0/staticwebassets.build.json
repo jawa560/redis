@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FtJWLpGGdwYW0GbLSMnbRezXjJT7XQsRkvyPN15w/Rk=",
+  "Source": "curd_redis",
+  "BasePath": "_content/curd_redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
